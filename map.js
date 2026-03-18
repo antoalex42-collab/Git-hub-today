@@ -15,4 +15,4 @@ let value = spl.reduce((acc,val) => {
     acc[val] = (acc[val])
 })
 
-//object -> collection of 
+//object -> collection of check weather it is updated in github repository
