@@ -16,3 +16,5 @@ let value = spl.reduce((acc,val) => {
 })
 
 //object -> collection of check weather it is updated in github repository
+module 1
+module 2
